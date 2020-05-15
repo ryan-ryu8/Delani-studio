@@ -1,6 +1,5 @@
 # Delani-studio
  Recreating a landing page for a fictional studio 
- # Hello-World
 
 ## Author
 - [Ryan Munge](https://github.com/ryan-ryu8/Delani-studio.git)
@@ -14,6 +13,8 @@
  CSS
  JAVASCRIPT
  
+ ## Known Bugs
+ Click on the what we do icons may not show the descriptions hidden.
 
 ## License info
 MIT License
