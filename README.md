@@ -6,7 +6,7 @@
 - [Ryan Munge](https://github.com/ryan-ryu8/Delani-studio.git)
 
 ## Description
- Implementing everything you have learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio.
+ Implementing everything I have learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio.
  
  ## Technologies Used
  Atom
